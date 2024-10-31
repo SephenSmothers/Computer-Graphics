@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\Gateware.h(12354,11): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+  (compiling source file '../main.cpp')
+  
+  **Dependency Test Output**
+  **End Dependency Test Output**
+  Assignment_2_D3D11.vcxproj -> C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\build\Release\Assignment_2_D3D11.exe

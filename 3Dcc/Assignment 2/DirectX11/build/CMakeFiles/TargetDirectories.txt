@@ -1,0 +1,3 @@
+C:/Users/sephe/Desktop/FS Classes/Programing/3Dcc/Assignment 2/DirectX11/build/CMakeFiles/Assignment_2_D3D11.dir
+C:/Users/sephe/Desktop/FS Classes/Programing/3Dcc/Assignment 2/DirectX11/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sephe/Desktop/FS Classes/Programing/3Dcc/Assignment 2/DirectX11/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\FileIntoString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\FSLogo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <FXCompile Include="C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\Shaders\VertexShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FXCompile>
+    <FXCompile Include="C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\Shaders\PixelShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FXCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CE6FA7F7-9AD4-3544-ADA2-F14E914CE499}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{CB3FBC3C-FF52-32D1-A95C-C4C0F49CF2C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2DF521FA-D10A-33FC-B7AD-075194891557}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

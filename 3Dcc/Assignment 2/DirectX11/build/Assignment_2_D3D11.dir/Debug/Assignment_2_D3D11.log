@@ -1,0 +1,15 @@
+﻿C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\Shaders\VertexShader.hlsl(56,5-57): warning X3206: implicit truncation of vector type
+C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\Shaders\VertexShader.hlsl(57,5-54): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\build\Debug\VertexShader.cso
+C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\Shaders\PixelShader.hlsl(61,11-59): warning X3206: implicit truncation of vector type
+C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\Shaders\PixelShader.hlsl(44,32-36): warning X3576: semantics in type overridden by variable/function or enclosing type
+  
+  compilation object save succeeded; see C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\build\Debug\PixelShader.cso
+  main.cpp
+C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\Gateware.h(12354,11): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+  (compiling source file '../main.cpp')
+  
+  **Dependency Test Output**
+  **End Dependency Test Output**
+  Assignment_2_D3D11.vcxproj -> C:\Users\sephe\Desktop\FS Classes\Programing\3Dcc\Assignment 2\DirectX11\build\Debug\Assignment_2_D3D11.exe

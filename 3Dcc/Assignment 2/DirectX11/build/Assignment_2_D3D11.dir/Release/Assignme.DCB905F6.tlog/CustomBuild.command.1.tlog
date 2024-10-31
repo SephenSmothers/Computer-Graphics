@@ -1,0 +1,10 @@
+^C:\USERS\SEPHE\DESKTOP\FS CLASSES\PROGRAMING\3DCC\ASSIGNMENT 2\DIRECTX11\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/sephe/Desktop/FS Classes/Programing/3Dcc/Assignment 2/DirectX11" "-BC:/Users/sephe/Desktop/FS Classes/Programing/3Dcc/Assignment 2/DirectX11/build" --check-stamp-file "C:/Users/sephe/Desktop/FS Classes/Programing/3Dcc/Assignment 2/DirectX11/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
